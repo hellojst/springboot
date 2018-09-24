@@ -1,0 +1,1 @@
+主要用于实体（Entity）与数据访问层（Repository）
